@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/React4/static/css/main.a617e044.chunk.css",
-    "main.js": "/React4/static/js/main.b312dff8.chunk.js",
-    "main.js.map": "/React4/static/js/main.b312dff8.chunk.js.map",
-    "runtime-main.js": "/React4/static/js/runtime-main.1dc8e3dd.js",
-    "runtime-main.js.map": "/React4/static/js/runtime-main.1dc8e3dd.js.map",
-    "static/js/2.60d9f419.chunk.js": "/React4/static/js/2.60d9f419.chunk.js",
-    "static/js/2.60d9f419.chunk.js.map": "/React4/static/js/2.60d9f419.chunk.js.map",
-    "static/js/3.e39fcafa.chunk.js": "/React4/static/js/3.e39fcafa.chunk.js",
-    "static/js/3.e39fcafa.chunk.js.map": "/React4/static/js/3.e39fcafa.chunk.js.map",
+    "main.css": "/React4/static/css/main.282385cb.chunk.css",
+    "main.js": "/React4/static/js/main.3a1f1f53.chunk.js",
+    "main.js.map": "/React4/static/js/main.3a1f1f53.chunk.js.map",
+    "runtime-main.js": "/React4/static/js/runtime-main.4df6e1c8.js",
+    "runtime-main.js.map": "/React4/static/js/runtime-main.4df6e1c8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/React4/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.43f91cb2.chunk.js": "/React4/static/js/2.43f91cb2.chunk.js",
+    "static/js/2.43f91cb2.chunk.js.map": "/React4/static/js/2.43f91cb2.chunk.js.map",
+    "static/js/3.3134f8fb.chunk.js": "/React4/static/js/3.3134f8fb.chunk.js",
+    "static/js/3.3134f8fb.chunk.js.map": "/React4/static/js/3.3134f8fb.chunk.js.map",
     "index.html": "/React4/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/React4/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.60d9f419.chunk.js.LICENSE.txt": "/React4/static/js/2.60d9f419.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React4/static/media/logo.6ce24c58.svg"
+    "static/css/2.0a9ec390.chunk.css.map": "/React4/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.282385cb.chunk.css.map": "/React4/static/css/main.282385cb.chunk.css.map",
+    "static/js/2.43f91cb2.chunk.js.LICENSE.txt": "/React4/static/js/2.43f91cb2.chunk.js.LICENSE.txt",
+    "static/media/gandhi.ea391ecb.png": "/React4/static/media/gandhi.ea391ecb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1dc8e3dd.js",
-    "static/js/2.60d9f419.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.b312dff8.chunk.js"
+    "static/js/runtime-main.4df6e1c8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.43f91cb2.chunk.js",
+    "static/css/main.282385cb.chunk.css",
+    "static/js/main.3a1f1f53.chunk.js"
   ]
 }
