@@ -1,18 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Components/Header';
+import Lista from './Components/Lista';
+import Libros from './Components/Libros';
+import LibreriaProvider from './Context/LibreriaContext';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-     
-      </header>
-    </div>
-  );
+function App(){
+ 
+    return (
+      <div className="App">
+        <LibreriaProvider>
+          <Header/>
+          <div className="Contenedor">
+              <Libros/>
+              <Lista/>            
+          </div> 
+        </LibreriaProvider>
+      </div>
+    )
+    
 }
 
 export default App;
